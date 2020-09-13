@@ -1,0 +1,25 @@
+.u-section-1 {background-image: url("images/WhatsAppImage2020-09-11at1.09.23AM.jpeg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 989px}
+.u-section-1 .u-text-1 {background-image: none; font-weight: bold; font-family: Roboto, sans-serif; font-size: 3rem; margin: 75px 16px 0}
+.u-section-1 .u-icon-1 {height: 263px; width: 262px; margin: 156px auto 0}
+.u-section-1 .u-btn-1 {background-image: none; margin: 62px auto 60px 517px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 868px}
+.u-section-1 .u-text-1 {margin-left: 0; margin-right: 0}
+.u-section-1 .u-icon-1 {height: 262px}
+.u-section-1 .u-btn-1 {margin-left: auto} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1076px}
+.u-section-1 .u-text-1 {width: auto; margin-right: 24px; margin-left: 11px}
+.u-section-1 .u-icon-1 {margin-right: 229px} }
+
+@media (max-width: 767px){ .u-section-1 {background-position: 0% 21.3%; background-size: auto 120%}
+.u-section-1 .u-sheet-1 {min-height: 1024px}
+.u-section-1 .u-text-1 {margin-left: 0; margin-right: 0}
+.u-section-1 .u-icon-1 {margin-top: 104px; margin-right: auto}
+.u-section-1 .u-btn-1 {margin-top: 114px; margin-left: 212px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 909px}
+.u-section-1 .u-text-1 {font-size: 1.875rem; margin-top: 34px; margin-left: 12px; margin-right: 12px}
+.u-section-1 .u-icon-1 {margin-top: 111px}
+.u-section-1 .u-btn-1 {margin-top: 148px; margin-left: auto} }
